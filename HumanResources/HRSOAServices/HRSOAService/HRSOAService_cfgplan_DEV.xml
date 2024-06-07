@@ -11,6 +11,16 @@
 		<search>8888</search>
 		<replace>8889</replace>
 	<searchReplace>-->
+	    <!--Add search and replace rules for the import section of a composite
+	Example:
+	<searchReplace>
+		<search>http://my-dev-server</search>
+		<replace>http://my-test-server</replace>
+	<searchReplace>
+	<searchReplace>
+		<search>8888</search>
+		<replace>8889</replace>
+	<searchReplace>-->
       <import>
          <searchReplace>
             <search/>
