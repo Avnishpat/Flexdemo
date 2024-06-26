@@ -4,6 +4,7 @@ END;
 /
 --comment
 --comment
+ /* add commentsingle
 /* add commentsingle line */
 /* I would like to
 display a system date 
