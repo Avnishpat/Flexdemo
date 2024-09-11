@@ -1,7 +1,7 @@
 --------------------------------------------------------
 --  DDL for Table DEMO_TABLE1
 --------------------------------------------------------
-
+--comment
   CREATE TABLE "MP1"."DEMO_TABLE1" 
    (	"CUSTOMER_ID" NUMBER(30,0), 
 	"COLUMN2" VARCHAR2(20 BYTE), 
