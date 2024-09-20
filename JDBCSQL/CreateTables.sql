@@ -11,6 +11,7 @@
    );
 --------------------------------------------------------
 --  DDL for Index DEMO_TABLE1_PK
+--  DDL for Index DEMO_TABLE1_PK
 --------------------------------------------------------
 /
   CREATE UNIQUE INDEX "MP1"."DEMO_TABLE1_PK" ON "MP1"."DEMO_TABLE1" ("CUSTOMER_ID") ;
