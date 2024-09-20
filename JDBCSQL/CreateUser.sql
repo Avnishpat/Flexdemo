@@ -8,3 +8,6 @@ TEMPORARY TABLESPACE "TEMP"
 ALTER USER MP1 QUOTA UNLIMITED ON USERS
 /
 --end comment
+--end comment
+--end comment
+--end comment
