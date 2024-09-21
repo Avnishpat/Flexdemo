@@ -1,3 +1,9 @@
 a6df-c8600c8b17ca - a518d9fb-e79d-480f-b2eb-3741c7b3c013 - flexagon.ff.common.core.exceptions.FlexCheckedException.init() - 
 flexagon.ff.common.core.exceptions.FlexCheckedException: flexagon.ff.common.core.exceptions.FlexRestException: Invalid credentials.
 	at 
+at java.lang.AbstractStringBuilder.hugeCapacity(AbstractStringBuilder.java:161)
+	at java.lang.AbstractStringBuilder.newCapacity(AbstractStringBuilder.java:155)
+	at java.lang.AbstractStringBuilder.ensureCapacityInternal(AbstractStringBuilder.java:125)
+	at java.lang.AbstractStringBuilder.append(AbstractStringBuilder.java:448)
+	at java.lang.StringBuilder.append(StringBuilder.java:136)
+	at flexagon.ffi.scm.git.commands.gitexe.GITExeBaseCommand.print(GITExeBaseCommand.java:213)
