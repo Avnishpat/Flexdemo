@@ -19,6 +19,9 @@ import java.io.Serializable;
 /**
  * Controller for ...
  */
+/**
+ * Controller for ...
+ */
 public class xxPersonMainCO extends OAControllerImpl
 {
   public static final String RCS_ID="$Header$";
@@ -71,11 +74,6 @@ public class xxPersonMainCO extends OAControllerImpl
       ,true //retain AM
       ,OAWebBeanConstants.ADD_BREAD_CRUMB_NO
       ,OAWebBeanConstants.IGNORE_MESSAGES);
-    }
-
-
-
-    
+    }   
   }
-
 }
