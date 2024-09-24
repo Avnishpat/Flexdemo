@@ -1,5 +1,6 @@
 
 //comment
+//comment1
 /*===========================================================================+
  |   Copyright (c) 2001, 2005 Oracle Corporation, Redwood Shores, CA, USA    |
  |                         All rights reserved.                              |
