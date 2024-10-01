@@ -23,6 +23,7 @@ import java.io.Serializable;
  * Controller for ...
  */
 //comment
+  //comment1
 public class xxPersonMainCO extends OAControllerImpl
 {
   public static final String RCS_ID="$Header$";
