@@ -7,3 +7,4 @@ nice msg
 hello
 hi
 welcome
+hi
