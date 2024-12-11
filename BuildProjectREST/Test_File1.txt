@@ -3,19 +3,4 @@ how are you
 git it 
 ok
 hi
-hello
-Change
-Hello
-how are you
-git it 
-ok
-hi
-hello
-Change
-change
-another
-hello
-welcome
-ok
-hello
-welcome
+fine
