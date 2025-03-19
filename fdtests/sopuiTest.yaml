@@ -1,0 +1,14 @@
+---
+testName: gitYamlSoapUI
+description: runs all the soapui tests in the fdtests folder.
+workflow:
+  name: SoapUI-runSoapUILoadTest
+  inputs:
+    # regex expression to match all xml files in fdtests folder of the execution
+    - code: SOAPUI_PROJECT_FILE
+      value: .*[\\/\\\\]fdtests[\\/\\\\].*\\.xml
+    # the test instance code you want to execute on
+    - code: TEST_INSTANCE   
+      value: ONPREMSOAP
+    - code: ARGS
+      value: "-P EndPoint=fdtlt89.flexagon.azure.com:8000 -P Database=jdbc:oracle:thin:@172.16.0.04:1525/pflex5 -P Username=fd_admin -P Password=welcome1"
