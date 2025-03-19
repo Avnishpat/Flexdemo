@@ -6,7 +6,7 @@ workflow:
   inputs:
     # regex expression to match all xml files in fdtests folder of the execution
     - code: SOAPUI_PROJECT_FILE
-      value: .*[\\/\\\\]fdtests[\\/\\\\].*\\.xml
+      value: .*[\\/\\\\]fdtests[\\/\\\\].*\\.xml, policyQuoteTest-soapui-project.xml
     # the test instance code you want to execute on
     - code: TEST_INSTANCE   
       value: ONPREMSOAP
