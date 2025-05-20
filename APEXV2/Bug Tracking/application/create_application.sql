@@ -3,7 +3,7 @@ begin
 wwv_flow_api.create_flow(
  p_id=>wwv_flow.g_flow_id
 ,p_owner=>nvl(wwv_flow_application_install.get_schema,'NICE')
-,p_name=>nvl(wwv_flow_application_install.get_application_name,'Bug Tracking')
+,p_name=>nvl(wwv_flow_application_install.get_application_name,'Bug&Tracking')
 ,p_alias=>nvl(wwv_flow_application_install.get_application_alias,'100')
 ,p_application_group=>240683658310899915
 ,p_application_group_name=>'19.1 Productivity Apps'
