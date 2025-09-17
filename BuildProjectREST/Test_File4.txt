@@ -1,6 +1,7 @@
 Hello
 Flexagon.
-
+hi
+hi
 bye bye
 Welcome
 back now
