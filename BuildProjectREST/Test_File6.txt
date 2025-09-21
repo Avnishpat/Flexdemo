@@ -8,3 +8,4 @@ at java.lang.AbstractStringBuilder.hugeCapacity(AbstractStringBuilder.java:161)
 	at java.lang.StringBuilder.append(StringBuilder.java:136)
 	at flexagon.ffi.scm.git.commands.gitexe.GITExeBaseCommand.print(GITExeBaseCommand.java:213)
 hii
+helo
