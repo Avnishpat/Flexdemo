@@ -20,6 +20,7 @@ import oracle.jbo.AttributeList;
 //comment6
 //comment7
 //comment8
+//comment9
 public class xxPersonDetailsEOImpl extends OAEntityImpl 
 {
   protected static final int PERSONID = 0;
