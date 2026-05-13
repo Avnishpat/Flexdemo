@@ -10,7 +10,7 @@ BEGIN
 EXCEPTION
     WHEN OTHERS THEN
         NULL; -- Do nothing if the table does not exist
-END;
+--END;
 /
 
 -- Create a table for vegetable tables
