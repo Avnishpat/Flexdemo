@@ -35,3 +35,6 @@ Keith
 added line 2
 added line 8
 we have a below method in EnvironmentInstancePropertyAPI
+
+
+Workflows (build, deploy, test, etc.) can be read. Read permission can be overridden for individual Workflows as well. This contains execution code for build, deployment, test, etc.
