@@ -7,3 +7,7 @@ TEsting is good
 hopefully
 nope
 dadadad
+
+Why is Rollback Necessary?
+
+Error Correction: During deployment, changes can introduce errors or conflicts. Rollback allows you to undo these changes and restore system functionality.
