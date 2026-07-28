@@ -10,6 +10,7 @@ import oracle.jbo.domain.RowID;
 //COmment1
 //comment2
 //comment3
+//comment4
 public class xxPersonDetailsVORowImpl extends OAViewRowImpl 
 {
 
