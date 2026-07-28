@@ -5,6 +5,7 @@ END;
 --comment
 --comment
 --comment1
+--comment2
  /* add commentsingle
 /* add commentsingle line */
 /* I would like to
